@@ -21,7 +21,7 @@
     "slackbots": "^0.4.0"
   },
   "devDependencies": {
-    "nodemon": "^1.5.0"
+    "nodemon": "^1.5.0",
     "beepboop-botkit": "^1.4.0",
     "botkit": "~0.1.1"
   }

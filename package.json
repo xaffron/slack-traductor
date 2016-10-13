@@ -18,7 +18,7 @@
     "babel": "^5.8.23",
     "dotenv": "^1.2.0",
     "request": "^2.62.0",
-    "slackbots": "^0.4.0"
+    "slackbots": "^0.5.3"
   },
   "devDependencies": {
     "nodemon": "^1.5.0",
